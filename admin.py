@@ -1,5 +1,5 @@
 import streamlit as st
-import Deta
+from deta import Deta
 from PIL import Image
 import os
 #from dotenv import load_dotenv
