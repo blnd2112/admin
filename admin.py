@@ -19,7 +19,7 @@ secondaryBackgroundColor="#F0F2F6"
 textColor="#262730"
 font="sans serif"
 
-image4 = Image.open(r'C:\Users\Blnd\PycharmProjects\pythonProject6\sss.png')
+image4 = Image.open('4sss.png')
 st.image(image4, width=400)
 
 
