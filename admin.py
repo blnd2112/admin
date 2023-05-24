@@ -2,7 +2,6 @@ import streamlit as st
 from deta import Deta
 from PIL import Image
 import os
-#from dotenv import load_dotenv
 import secrets
 import time
 
